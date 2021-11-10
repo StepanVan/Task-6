@@ -1,0 +1,12 @@
+.asteroid big, asteroid b329 big {
+    color:blue;
+}
+.asteroid, asteroid b326 {
+    border: solid 8px green;
+}
+.asteroid big {
+    background:yellow;
+}
+.asteroid, asteroid b329 big, asteroid b326 {
+    font-weight: bold;
+}
