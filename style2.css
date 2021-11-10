@@ -1,12 +1,22 @@
-.asteroid big, asteroid b329 big {
-    color:blue;
-}
-.asteroid, asteroid b326 {
-    border: solid 8px green;
-}
-.asteroid big {
-    background:yellow;
-}
-.asteroid, asteroid b329 big, asteroid b326 {
-    font-weight: bold;
-}
+.asteroid {
+    font-size:35px;;
+   }
+   
+   .big {
+       color:blue;
+   }
+   #b325 {
+       border: solid 4px green;
+   }
+   
+   .b326 {
+     border: solid 4px green;
+     position:relative;
+     top:10px;
+   }
+   #business {
+       background:yellow;
+   }
+    #b325, #b326, #b329 {
+       font-weight: bold
+   }
